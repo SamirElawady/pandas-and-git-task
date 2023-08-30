@@ -78,6 +78,10 @@ c = np.setdiff1d(a, b)
 
 print(c)
 ```
+```
+output: [1 2 3]
+why: because setdiff1d function returns the sorted, unique values that are in the first input array but not in the second input array.
+```
 
 - Which of the following is a function in NumPy used for carrying out Einstein summations?
 
