@@ -63,6 +63,10 @@ c = np.intersect1d(a, b)
 
 print(c)
 ```
+```
+output: []
+why: because intersect1d function returns the sorted, unique values that are in both of the input arrays, and there are no common numberes.
+```
 
   
 - What is the output of the following code? And why is it so?
