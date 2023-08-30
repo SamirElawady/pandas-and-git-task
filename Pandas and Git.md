@@ -17,10 +17,10 @@ Speaking of *analyzing, cleaning, exploring, and manipulating* data, what functi
 
 function | what it does | category
 ------------ | ----------- | ---------
-`astype()` | `is used to cast a pandas object to a specified data type`  |  `Analyze data`
-`groupby()` |   |  
-`sort_values()` |   |  
-`pivot_table()` |   |  
+`astype()` | `is used to cast a pandas object to a specified data type` | `Analyze data`
+`groupby()` | `is used for grouping the data according to the categories and applying a function to the categories` | `Analyze data`
+`sort_values()` | `method to sort a DataFrame by the specified label` | `Analyze data` 
+`pivot_table()` | `method is used to create a spreadsheet-style pivot table as a DataFrame.`  | `Explore data` 
 `merge()` |   |  
 `plot()` |   |  
 `corr()` |   |  
