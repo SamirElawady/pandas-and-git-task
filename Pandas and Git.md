@@ -87,7 +87,7 @@ why: because setdiff1d function returns the sorted, unique values that are in th
 
     - [ ]  `np.tensordot()`
     - [ ]  `np.dot()`
-    - [ ]  `np.einsum()`
+    - [x]  `np.einsum()`
     - [ ]  `np.outer()`
 
 - The `np.outer` function is primarily intended for:
