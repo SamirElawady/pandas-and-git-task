@@ -48,6 +48,10 @@ c = np.vstack((a, b))
 
 print(c[1][2])
 ```
+```
+output: 6
+why: because of [1] is second row, and [2] is third column where zero index.
+```
 
 
 - What is the output of the following code? And why is it so?
