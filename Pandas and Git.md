@@ -93,7 +93,7 @@ why: because setdiff1d function returns the sorted, unique values that are in th
 - The `np.outer` function is primarily intended for:
 
     - [ ]  Computing the tensor dot product of two arrays.
-    - [ ]  Computing the outer product of two arrays.
+    - [X]  Computing the outer product of two arrays.
     - [ ]  Computing the inner product of two arrays.
     - [ ]  Computing the cross product of two arrays.
 
