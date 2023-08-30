@@ -219,5 +219,21 @@ You may want to check [this](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=16813
 
 ## Problem Solving 🤔
 [A. Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A)
+```
+  n, m = map(int, input().split())
+  prime_nums = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47]
+  
+  x = prime_nums.index(n)
+   
+  if x < 14 and m == prime_nums[x+1]:
+      print("YES")
+  else:
+      print("NO")
+```
+
 
 [A. Again Twenty Five!](https://codeforces.com/problemset/problem/630/A)
+```
+  n = int(input())
+  print(25)
+```
