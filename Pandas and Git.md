@@ -17,7 +17,7 @@ Speaking of *analyzing, cleaning, exploring, and manipulating* data, what functi
 
 function | what it does | category
 ------------ | ----------- | ---------
-`astype()` | is used to cast a pandas object to a specified data type  |  Analyze data
+`astype()` | `is used to cast a pandas object to a specified data type`  |  `Analyze data`
 `groupby()` |   |  
 `sort_values()` |   |  
 `pivot_table()` |   |  
