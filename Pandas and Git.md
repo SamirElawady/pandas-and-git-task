@@ -21,15 +21,15 @@ function | what it does | category
 `groupby()` | `is used for grouping the data according to the categories and applying a function to the categories` | `Analyze data`
 `sort_values()` | `method to sort a DataFrame by the specified label` | `Analyze data` 
 `pivot_table()` | `method is used to create a spreadsheet-style pivot table as a DataFrame.`  | `Explore data` 
-`merge()` |   |  
-`plot()` |   |  
-`corr()` |   |  
-`cov()` |   |  
-`apply()` |   |  
-`loc()` |   |  
-`iloc()` |   |  
-`iterrows()` |   |  
-`aggregate()` |   |
+`merge()` | `is used to merge DataFrame or named Series objects with a database-style join.`  |  `Analyze data`
+`plot()` | ` is used to create a variety of charts from DataFrame objects.`  |  `Explore data`
+`corr()` | `is used to compute pairwise correlation of columns, excluding NA/null values.`  | `Manipulate data` 
+`cov()` | ` is used to compute pairwise covariance of columns, excluding NA/null values.`  |  `Explore data`
+`apply()` | `is used to apply a function along an axis of the DataFrame.`  |  `Manipulate data`
+`loc()` | `used to select rows and columns from a DataFrame which uses labels to select rows and columns.`  |  `Explore data`
+`iloc()` | `used to select rows and columns from a DataFrame which  uses integer positions.`  |  `Explore data`
+`iterrows()` | `is used to iterate over the rows of a DataFrame as (index, Series) pairs.`  |  `Explore data`
+`aggregate()` | `is used to apply one or more functions to the columns of a DataFrame.`  | `Manipulate data`
 
 $\rightarrow$ You may insert code snippets here if you like!
 
