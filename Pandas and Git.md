@@ -102,6 +102,13 @@ why: because setdiff1d function returns the sorted, unique values that are in th
 Pandas can be used to visualize data using a wrapper for `matplotlib.pyplot.plot()`. You can plot data directly from your DataFrame using certain functions.
 
 - What functions can you use to plot data directly from your DataFrame? 🤔
+  ```
+  there are several function that allow to plot directory from data frame such as:
+    -DataFrame.plot(): This function is a wrapper around matplotlib.pyplot.plot() and allows you to create various types of plots, such as line plots, bar            plots, scatter plots, etc.
+    -DataFrame.plot.line(): This function is used for creating line plots from a DataFrame.
+    -DataFrame.plot.bar(): This function is used for creating bar plots from a DataFrame.
+    -DataFrame.plot.scatter(): This function is used for creating scatter plots from a DataFrame.
+  ```
 
 - What is the output of the following code? And why is it so?
 
