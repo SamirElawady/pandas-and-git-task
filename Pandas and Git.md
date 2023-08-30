@@ -17,7 +17,7 @@ Speaking of *analyzing, cleaning, exploring, and manipulating* data, what functi
 
 function | what it does | category
 ------------ | ----------- | ---------
-`astype()` |   |  
+`astype()` | is used to cast a pandas object to a specified data type  |  Analyze data
 `groupby()` |   |  
 `sort_values()` |   |  
 `pivot_table()` |   |  
@@ -212,8 +212,16 @@ I know you are all familiar with Git, but let's see how much you know about it! 
     - [ ] git.ignore
 
 - Under which circumstance should you use a single dash within a bash command, as opposed to a double dash?
+  ```
+  a single dash is used for single-character options and a double dash is used for multi-character options. For example, if you want to list the contents of a 
+  directory in long format with human-readable sizes, you can use the command ls -lh. Here -l is a single-character option that stands for long format and -h is 
+  another single-character option that stands for human-readable sizes. If you want to use the --help option of the ls command, you would use ls --help.
+  ```
 
 - Which vendor acquired GitHub for $7.5 billion in June 2018?
+```
+'Microsoft'
+```
 
 You may want to check [this](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=16813s)
 
